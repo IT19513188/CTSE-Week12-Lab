@@ -25,7 +25,7 @@ spec:
         app: ctse-week12-lab
     spec:
       containers:
-      - image: it19513188/week-12-lab:9b2f2271ea7addec17bbef3164ac56ceaf453978
+      - image: it19513188/week-12-lab:{{tag}}
         imagePullPolicy: Always
         name: week-12-lab
         resources: {}
