@@ -1,0 +1,22 @@
+{
+  "name": "ctse-week12-lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IT19513188/CTSE-Week12-Lab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IT19513188/CTSE-Week12-Lab/issues"
+  },
+  "homepage": "https://github.com/IT19513188/CTSE-Week12-Lab#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
